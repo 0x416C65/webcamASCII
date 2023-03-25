@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  display: grid;
+  height: 100vh;
+  overflow: hidden;
+  place-content: center;
+}
+pre {
+  margin: 0;
+  font-family: monospace;
+  white-space: pre-wrap;
+  font-size: 8px;
+  line-height: 1;
+}
+
+.theme-black {
+  background-color: black;
+  color: white;
+}
+.theme-white {
+  background-color: white;
+  color: black;
+}
+.theme-matrix {
+  background-color: black;
+  color: green;
+}
+.theme-blue {
+  background-color: #0a68d9;
+  color: white;
+}
+.theme-red {
+  background-color: red;
+  color: white;
+}
