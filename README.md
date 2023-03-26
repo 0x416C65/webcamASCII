@@ -14,4 +14,4 @@ Webcam ASCII é um projeto simples para exibir o feed da câmera do usuário com
 2. Permita o acesso à câmera do seu dispositivo.
 3. A arte ASCII da câmera será exibida na tela.
 
-Para personalizar a escala ou o tema, você pode usar parâmetros de URL, como: [http://localhost:5500/index.html?scale=3&theme=matrix](http://localhost:5500/index.html?scale=3&theme=matrix). Isso aplicará o tema Matrix e ajustará a escala para 3.
+Para personalizar a escala ou o tema, você pode usar parâmetros de URL, como: [?scale=3&theme=matrix](http://localhost:5500/index.html?scale=3&theme=matrix). Isso aplicará o tema Matrix e ajustará a escala para 3.
