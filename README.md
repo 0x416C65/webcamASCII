@@ -1,6 +1,6 @@
 # Webcam ASCII
 
-Webcam ASCII é um projeto simples para exibir o feed da câmera do usuário como arte ASCII em tempo real no navegador.
+Projeto simples para exibir o feed da câmera do usuário como arte ASCII em tempo real no navegador.
 
 ## Funcionalidades
 
